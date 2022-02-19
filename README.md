@@ -1,4 +1,4 @@
-### Olá, eu sou Pedro Silva
+## Olá, eu sou Pedro Silva
 
 <div align="center">
   <a href="https://github.com/ped770">
@@ -6,6 +6,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ped770&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+  ## Tecnologias usadas
 <div style="display:inline_block"><br>
     <img allign="center" alt="Pedro-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img allign="center" alt="Pedro-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
@@ -13,7 +14,7 @@
     <img allign="center" alt="Pedro-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 </div>  
   
-  ##
+  ## Redes Sociais
   
 <div>
     <a href="mailto:pedrosilva.dev01@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
