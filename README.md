@@ -10,7 +10,7 @@
 <div style="display:inline_block"><br>
     <img allign="center" alt="Pedro-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img allign="center" alt="Pedro-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-    <img allign="center" alt="Pedro-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+    <img allign="center" alt="Pedro-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>  
   
   ## Redes Sociais
