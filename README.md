@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/ped770">
-  <img height="160em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=)"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ped770&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ped770&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ped770&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
   ## Tecnologias usadas
@@ -22,3 +22,5 @@
     <a href="https://www.instagram.com/pedrosilvas1918" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/pedro-silva-07795a22b" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+  
+![Snake animation](https://github.com/ped770/ped770/blob/output/github-contribution-grid-snake.svg)
